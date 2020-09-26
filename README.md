@@ -1,3 +1,1 @@
 # EstructuraDeDatosIFTS
-# EstructuraDeDatosIFTS
-# EstructuraDeDatosIFTS
